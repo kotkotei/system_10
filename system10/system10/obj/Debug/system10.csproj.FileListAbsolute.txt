@@ -1,0 +1,11 @@
+C:\Users\1\source\repos\system10\system10\bin\Debug\system10.exe.config
+C:\Users\1\source\repos\system10\system10\bin\Debug\system10.exe
+C:\Users\1\source\repos\system10\system10\bin\Debug\system10.pdb
+C:\Users\1\source\repos\system10\system10\obj\Debug\system10.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\system10\system10\obj\Debug\system10.Form1.resources
+C:\Users\1\source\repos\system10\system10\obj\Debug\system10.Properties.Resources.resources
+C:\Users\1\source\repos\system10\system10\obj\Debug\system10.csproj.GenerateResource.cache
+C:\Users\1\source\repos\system10\system10\obj\Debug\system10.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\system10\system10\obj\Debug\system10.exe
+C:\Users\1\source\repos\system10\system10\obj\Debug\system10.pdb
+C:\Users\1\source\repos\system10\system10\obj\Debug\system10.ScreenShot.resources
